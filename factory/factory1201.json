@@ -1,0 +1,9 @@
+{
+	"name": "factory1201",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f1984b8a-fd41-4e2a-8d1f-4354530a49cb",
+		"tenantId": "83b02c92-5f26-48ed-9e5b-6c2fca46a8e6"
+	}
+}
